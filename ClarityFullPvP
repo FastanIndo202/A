@@ -135,7 +135,7 @@ KillAura NoInvAttack false
 KillAura NoInvDelay 130
 KillAura LimitedMultiTargets 0
 KillAura Mark false
-KillAura FakeSharp true
+KillAura FakeSharp false
 KillAura toggle false
 KillAura bind X
 LadderJump toggle false
