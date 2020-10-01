@@ -1,0 +1,18 @@
+# AutoSettings for Clarity Server
+Aimbot range 7.5
+Aimbot turnspeed 1.0
+Aimbot FOV 180.0
+Aimbot Center false
+Aimbot Lock false
+Aimbot OnClick false
+Aimbot Jitter false
+Aimbot toggle false
+Aimbot bind NONE
+AutoArmor MaxDelay 130
+AutoArmor MinDelay 60
+AutoArmor InvOpen true
+AutoArmor SimulateInventory true
+AutoArmor NoMove false
+AutoArmor ItemDelay 0
+AutoArmor toggle true
+AutoArmor bind Z
