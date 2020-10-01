@@ -56,9 +56,9 @@ InventoryMove bind NONE
 KillAura MaxCPS 20
 KillAura MinCPS 20
 KillAura HurtTime 10
-KillAura Range 8.5
+KillAura Range 8.0
 KillAura ThroughWallsRange 2.0
-KillAura RangeSprintReducement 3.0
+KillAura RangeSprintReducement 0.40
 KillAura Priority Distance
 KillAura TargetMode Multi
 KillAura Swing false
@@ -78,9 +78,9 @@ KillAura Strafe Silent
 KillAura RandomCenter false
 KillAura Outborder false
 KillAura FOV 180.0
-KillAura Predict false
-KillAura MaxPredictSize 1.0
-KillAura MinPredictSize 1.0
+KillAura Predict true
+KillAura MaxPredictSize 5.0
+KillAura MinPredictSize 5.0
 KillAura FailRate 0.0
 KillAura FakeSwing true
 KillAura NoInvAttack false
