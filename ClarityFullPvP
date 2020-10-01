@@ -285,3 +285,5 @@ Chams Target true
 Chams Chest true
 Chams Item true
 Chams toggle true
+ClickGUI Scale 0.50
+ClickGUI MaxElements 5
