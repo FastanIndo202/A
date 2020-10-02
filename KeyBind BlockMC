@@ -1,11 +1,11 @@
 KillAura bind X
 AutoArmor bind Z
-Blink bind F5
+Blink bind F6
 ServerCrasher bind F4
-Derp bind F6
+Derp bind F7
 Scaffold bind GRAVE
-LongJump bind G
+LongJump bind H
 BowAimbot bind MINUS
 Fly bind V
 SoulFly bind B
-ChestStealer bind C
+ChestStealer bind F4
